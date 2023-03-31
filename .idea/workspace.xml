@@ -48,54 +48,54 @@
     "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build exercicios8.go">
-    <configuration name="go build exercicio5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build exercicios17.go">
+    <configuration name="go build exercicios13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio5.go" />
+      <filePath value="$PROJECT_DIR$/exercicios13.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicios20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicios14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicios20.go" />
+      <filePath value="$PROJECT_DIR$/exercicios14.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicios6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicios15.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicios6.go" />
+      <filePath value="$PROJECT_DIR$/exercicios15.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicios7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicios16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicios7.go" />
+      <filePath value="$PROJECT_DIR$/exercicios16.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicios8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercicios17.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-guicarramiloCEUB" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicios8.go" />
+      <filePath value="$PROJECT_DIR$/exercicios17.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercicios8.go" />
-        <item itemvalue="Go Build.go build exercicios20.go" />
-        <item itemvalue="Go Build.go build exercicios7.go" />
-        <item itemvalue="Go Build.go build exercicios6.go" />
-        <item itemvalue="Go Build.go build exercicio5.go" />
+        <item itemvalue="Go Build.go build exercicios17.go" />
+        <item itemvalue="Go Build.go build exercicios16.go" />
+        <item itemvalue="Go Build.go build exercicios15.go" />
+        <item itemvalue="Go Build.go build exercicios14.go" />
+        <item itemvalue="Go Build.go build exercicios13.go" />
       </list>
     </recent_temporary>
   </component>
